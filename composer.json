@@ -1,0 +1,7 @@
+{
+    "name": "vendor/fitch",
+    "description": "new project",
+    "require": {
+        "php": ">=7.4"
+    }
+}
